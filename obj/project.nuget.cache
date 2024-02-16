@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "ueyUpcD78eZDqRrCitKKUnWRrkFAUWP6H4RLt/cKedJ9P9bxcML3fgd+YCYvWGVvXpVa5DsQ7hsudE0UOH/5IQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kristof\\Desktop\\Repo cloneozás\\Nyomdai Raklapkísérő nyomtató program\\PeterMiklosAdatbazisSQLITE\\PeterMiklosAdatbazisSQLITE\\PeterMiklosAdatbazisSQLITE.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kristof\\.nuget\\packages\\microsoft.data.sqlite\\8.0.2\\microsoft.data.sqlite.8.0.2.nupkg.sha512",
+    "C:\\Users\\Kristof\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.2\\microsoft.data.sqlite.core.8.0.2.nupkg.sha512",
+    "C:\\Users\\Kristof\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.6\\sqlitepclraw.bundle_e_sqlite3.2.1.6.nupkg.sha512",
+    "C:\\Users\\Kristof\\.nuget\\packages\\sqlitepclraw.core\\2.1.6\\sqlitepclraw.core.2.1.6.nupkg.sha512",
+    "C:\\Users\\Kristof\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.6\\sqlitepclraw.lib.e_sqlite3.2.1.6.nupkg.sha512",
+    "C:\\Users\\Kristof\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.6\\sqlitepclraw.provider.e_sqlite3.2.1.6.nupkg.sha512",
+    "C:\\Users\\Kristof\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

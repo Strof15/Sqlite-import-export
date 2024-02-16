@@ -1,0 +1,26 @@
+Név;Értékelés;Ár;Kiadó
+Cyberpunk 2077;8,5;14990;CD Projekt Red
+Half-Life: Alyx;9,2;19990;Valve
+Red Dead Redemption 2;9,4;14990;Rockstar Games
+Doom Eternal;8,8;12990;Bethesda Softworks
+Hades;9,0;5490;Supergiant Games
+The Witcher 3: Wild Hunt;9,3;9990;CD Projekt Red
+Control;8,6;12990;505 Games
+Death Stranding;8,3;14990;505 Games
+Resident Evil 2;9,1;9990;Capcom
+Sekiro: Shadows Die Twice;9,0;14990;Activision
+Star Wars Jedi: Fallen Order;8,7;14990;Electronic Arts
+Horizon Zero Dawn;8,9;14990;Sony Interactive Entertainment
+Gears 5;8,4;14990;Microsoft Studios
+Metro Exodus;8,5;9990;Deep Silver
+Outer Wilds;8,8;5490;Annapurna Interactive
+Disco Elysium;9,2;5490;ZA/UM
+Divinity: Original Sin 2;9,4;9990;Larian Studios
+Subnautica;9,1;5490;Unknown Worlds Entertainment
+Portal 2;9,5;1990;Valve
+Fallout: New Vegas;8,9;1990;Bethesda Softworks
+Bioshock Infinite;8,7;1990;2K Games
+The Elder Scrolls V: Skyrim;9,2;1990;Bethesda Softworks
+The Sims 4;7,5;9990;Electronic Arts
+Minecraft;9,0;6990;Mojang
+Grand Theft Auto V;9,3;9990;Rockstar Games
